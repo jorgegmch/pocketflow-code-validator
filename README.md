@@ -118,4 +118,4 @@ pocketflow-code-validator
 
 MIT — see [LICENSE](LICENSE) for details.
 
-Built by [Jorge Gomez](https://github.com/jorgegmch)
+Built by [jorgegmch](https://github.com/jorgegmch)
